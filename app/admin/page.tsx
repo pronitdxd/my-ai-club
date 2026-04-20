@@ -109,7 +109,7 @@ export default function AdminPage() {
         <div className="mb-12 border-b border-red-500/20 pb-10 flex flex-col md:flex-row justify-between items-end gap-6">
           <div>
             <h1 className="text-4xl font-michroma text-red-500 uppercase italic tracking-tighter">Command Center</h1>
-            <p className="font-space-mono text-[10px] text-zinc-500 tracking-[0.3em] mt-2 uppercase italic">Verified Admin Identity: proitd07@gmail.com</p>
+            <p className="font-space-mono text-[10px] text-zinc-500 tracking-[0.3em] mt-2 uppercase italic">Verified Admin Identity: pronitd07@gmail.com</p>
           </div>
           <div className="flex gap-10">
             <div className="text-center">
